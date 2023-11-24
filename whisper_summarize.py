@@ -2,7 +2,7 @@ import openai
 import whisper
 from dotenv import load_dotenv
 
-
+load_dotenv()
 openai.api_key = "GPT-KEY"
 
 def load_whisper_model():
