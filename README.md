@@ -5,5 +5,6 @@
 * Corra el archivo con "streamlit run OG.py" para la interfaz
 * Corra el archivo con "python whisper_summarize.py" para la interfaz de consola
 * Coloque su key de GPT en en un archivo .env por seguridad
+* Este proyecto solo se puede correr en la version de python 3.8 a 3.11, debido a las librerías utilizadas
 
 
